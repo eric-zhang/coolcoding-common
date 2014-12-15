@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wshop-web:war">
+    <output-path>$PROJECT_DIR$/wshop/wshop-web/target</output-path>
+    <root id="archive" name="wshop-wb.war">
+      <element id="artifact" artifact-name="wshop-web:war exploded" />
+    </root>
+  </artifact>
+</component>
